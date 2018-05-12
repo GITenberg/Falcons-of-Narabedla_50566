@@ -1,4 +1,8 @@
 _repo: Falcons-of-Narabedla_50566
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50566-h/images/cover.jpg
 creator:
   author:
     agent_name: Bradley, Marion Zimmer
@@ -13,6 +17,8 @@ description: "Falcons of Narabedla is a science fiction novel by Marion Zimmer B
   \ Dark Intruder and Other Stories on the other side. The story first appeared in\
   \ the May 1957 issue of the magazine Other Worlds.\nThe name \"Narabedla\" is the\
   \ name of the star \"Aldebaran\" spelled backwards.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50566#Falcons-of-Narabedla
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-11-28'
 gutenberg_type: Text
